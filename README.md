@@ -1,0 +1,1 @@
+This is a simple Admin Dashboard for handling CRUD SQL via Oracle
