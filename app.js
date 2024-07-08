@@ -1,4 +1,4 @@
-const oracledb = require('oracledb');
+const oracledb = require("oracledb");
 oracledb.outFormat = oracledb.OUT_FORMAT_OBJECT;
 
 async function CreateTable() {
